@@ -14,7 +14,7 @@ http://download.savannah.gnu.org/releases/lzip/
 
 * add new readme.md file
 
-* add new directory "Linux_Build", add compile version, linux x64 lzip binary in gizip o bzip2 compression tar archive, read a file "info_bin_lzip.txt" inside the archive for info.
+* add relase linux x64 lzip binary in gizip or bzip2 compression tar archive, read a file "info_bin_lzip.txt" inside the archive for info.
 
 **The surce code is the same the original version in the tag 1.24, in the tag releases, I use a version name as "lzip 1.24B" for binary_x64 + surcecode relase.**
 
